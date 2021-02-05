@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/Fin-Valuation.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+fin_valuation/.idea/fin_valuation.iml
+fin_valuation/.idea/misc.xml
+fin_valuation/.idea/modules.xml
+fin_valuation/.idea/vcs.xml
+fin_valuation/.idea/inspectionProfiles/profiles_settings.xml
